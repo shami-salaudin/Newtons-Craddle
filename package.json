@@ -1,0 +1,23 @@
+{
+  "name": "cradle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shami-salaudin/Newtons-Craddle.git"
+  },
+  "author": "shamim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shami-salaudin/Newtons-Craddle/issues"
+  },
+  "homepage": "https://github.com/shami-salaudin/Newtons-Craddle#readme",
+  "dependencies": {
+    "d3-force-bounce": "^0.5.9",
+    "d3-force-constant": "^1.2.0"
+  }
+}
